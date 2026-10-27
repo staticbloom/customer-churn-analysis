@@ -1,0 +1,37 @@
+{
+  "source_filename": "WA_Fn-UseC_-Telco-Customer-Churn v2.csv",
+  "selected_model": "Soft vote (60% Logistic / 20% CatBoost / 20% LightGBM)",
+  "threshold": 0.3959999999999999,
+  "component_weights": {
+    "Logistic Regression": 0.6,
+    "CatBoost": 0.2,
+    "LightGBM": 0.2
+  },
+  "tuned_configurations": {
+    "Logistic Regression": {
+      "C": 0.05
+    },
+    "CatBoost": {
+      "depth": 4,
+      "learning_rate": 0.04,
+      "l2_leaf_reg": 5,
+      "iterations": 400
+    },
+    "LightGBM": {
+      "num_leaves": 7,
+      "min_child_samples": 30,
+      "learning_rate": 0.025,
+      "n_estimators": 500
+    }
+  },
+  "holdout_metrics": {
+    "Threshold": 0.3959999999999999,
+    "F1": 0.7239488117001828,
+    "Precision": 0.6971830985915493,
+    "Recall": 0.752851711026616,
+    "ROC-AUC": 0.9064236370859151,
+    "Average Precision": 0.794194906986168
+  },
+  "feature_count": 40,
+  "random_state": 42
+}

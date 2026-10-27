@@ -1,0 +1,4 @@
+Candidate,Model,Parameters,Train + validation seconds,Threshold,Accuracy,Precision,Recall,F1,ROC-AUC,Average Precision
+Random Forest #3,Random Forest,"{""max_depth"": null, ""min_samples_leaf"": 3, ""max_features"": 0.8}",1.6381180419120938,0.4529999999999999,0.839,0.6783216783216783,0.7376425855513308,0.7067395264116576,0.8838575872796405,0.7349737511561734
+Random Forest #2,Random Forest,"{""max_depth"": 12, ""min_samples_leaf"": 3, ""max_features"": 0.8}",1.658376417006366,0.42399999999999993,0.831,0.6525974025974026,0.7642585551330798,0.7040280210157618,0.8838937012139441,0.7395883459477006
+Random Forest #1,Random Forest,"{""max_depth"": 8, ""min_samples_leaf"": 4, ""max_features"": 0.7}",1.6460139580303803,0.4999999999999999,0.831,0.6535947712418301,0.7604562737642585,0.70298769771529,0.885952195469249,0.7418015083545216

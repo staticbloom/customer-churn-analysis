@@ -1,0 +1,25 @@
+{
+  "source_filename": "WA_Fn-UseC_-Telco-Customer-Churn v2.csv",
+  "split": {
+    "train": "40%",
+    "validation": "20%",
+    "test": "20%",
+    "reserve": "20%"
+  },
+  "selected_model": "Logistic Regression",
+  "parameters": {
+    "C": 1.0
+  },
+  "threshold": 0.3529999999999999,
+  "final_test_metrics": {
+    "Threshold": 0.3529999999999999,
+    "Accuracy": 0.841,
+    "Precision": 0.6805555555555556,
+    "Recall": 0.7452471482889734,
+    "F1": 0.7114337568058077,
+    "ROC-AUC": 0.8954398419241504,
+    "Average Precision": 0.7934323732124439
+  },
+  "feature_count": 40,
+  "random_state": 42
+}

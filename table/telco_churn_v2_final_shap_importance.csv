@@ -1,0 +1,73 @@
+Feature,Mean absolute SHAP value
+tenure_log,0.8267339258978162
+nps_score,0.4883151469365127
+Contract_Two year,0.426409752526557
+data_usage_change_pct_mom,0.4234784059607641
+minutes_change_pct_mom,0.3753858344137704
+Contract_Month-to-month,0.3299338616584028
+missingindicator_data_usage_change_pct_mom,0.3035075104096514
+InternetService_DSL,0.2673259766329778
+days_to_renewal,0.2584536093065747
+InternetService_Fiber optic,0.2400671410431184
+MonthlyCharges,0.18570535128825877
+tenure,0.16435622630340666
+PaperlessBilling_No,0.1479532243107271
+StreamingTV_No,0.1478176828811261
+MultipleLines_No,0.1468076956238821
+competitor_promo_active,0.1453151611882876
+support_tickets_90d,0.13588235840065135
+StreamingMovies_No,0.1342682770187402
+competitor_offers_in_area,0.11525686682099302
+outage_hours_90d,0.11474989648752308
+StreamingTV_Yes,0.1065445138200961
+nps_category_Detractor,0.10622127616657843
+StreamingMovies_Yes,0.10449316355802665
+customer_friction_events,0.09520733222573864
+PaymentMethod_Electronic check,0.09442969622699822
+service_reliability_events,0.09182431302459139
+TechSupport_Yes,0.08999588738850559
+gender_Male,0.08705905868961471
+Partner_No,0.08623918570320074
+dropped_calls_30d,0.08003542029198886
+monthly_charge_per_tenure,0.0780998690023805
+DeviceProtection_No internet service,0.07686397316425837
+StreamingTV_No internet service,0.07686397316425837
+InternetService_No,0.07686397316425837
+TechSupport_No internet service,0.07686397316425837
+StreamingMovies_No internet service,0.07686397316425837
+OnlineSecurity_No internet service,0.07686397316425837
+OnlineBackup_No internet service,0.07686397316425837
+Dependents_Yes,0.07550557873486098
+PaymentMethod_Bank transfer (automatic),0.07272916812440654
+late_payments_6m,0.07236869929335449
+TechSupport_No,0.06957254645664594
+support_tickets_30d,0.0675636227682938
+OnlineSecurity_Yes,0.0675494809760108
+area_outages_90d,0.059084544923325676
+Partner_Yes,0.05646321146709298
+days_since_plan_change,0.056115034581223654
+gender_Female,0.05509518586671253
+missingindicator_nps_score,0.053833364939124044
+OnlineSecurity_No,0.053006135562366184
+PaymentMethod_Mailed check,0.051262963820547576
+OnlineBackup_Yes,0.04661617276245849
+Contract_One year,0.04607739908605619
+Dependents_No,0.045499110799108185
+billing_disputes_6m,0.043489883523394085
+PhoneService_Yes,0.042189236335550856
+PaymentMethod_Credit card (automatic),0.03913782820895524
+complaints_90d,0.03810021937141157
+SeniorCitizen,0.03771495456618437
+nps_category_Not surveyed,0.035382622137960985
+nps_category_Promoter,0.03408885455282885
+nps_category_Passive,0.028771627361275004
+plan_downgrade_90d,0.0242678513261045
+DeviceProtection_No,0.021513408444244764
+support_ticket_escalation,0.020346434952674467
+DeviceProtection_Yes,0.01830192072651346
+missingindicator_minutes_change_pct_mom,0.01660452541878213
+MultipleLines_Yes,0.011646458017401606
+OnlineBackup_No,0.00800179082456079
+PaperlessBilling_Yes,0.005524903447417098
+PhoneService_No,0.0027135986255248314
+MultipleLines_No phone service,0.0027135986255248314

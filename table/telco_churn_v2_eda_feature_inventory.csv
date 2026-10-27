@@ -1,0 +1,20 @@
+Categorical features,Numeric features
+gender,SeniorCitizen
+Partner,tenure
+Dependents,MonthlyCharges
+PhoneService,support_tickets_30d
+MultipleLines,support_tickets_90d
+InternetService,complaints_90d
+OnlineSecurity,late_payments_6m
+OnlineBackup,billing_disputes_6m
+DeviceProtection,data_usage_change_pct_mom
+TechSupport,minutes_change_pct_mom
+StreamingTV,plan_downgrade_90d
+StreamingMovies,days_since_plan_change
+Contract,days_to_renewal
+PaperlessBilling,dropped_calls_30d
+PaymentMethod,area_outages_90d
+nps_category,outage_hours_90d
+,nps_score
+,competitor_offers_in_area
+,competitor_promo_active

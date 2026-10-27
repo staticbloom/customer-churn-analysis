@@ -1,0 +1,73 @@
+Feature,Absolute coefficient
+Contract_Two year,1.1028599020446874
+tenure_log,0.966995388100239
+nps_score,0.7933965015971489
+Contract_Month-to-month,0.6665869194650134
+InternetService_DSL,0.5887199978703737
+data_usage_change_pct_mom,0.5340752796913771
+minutes_change_pct_mom,0.5047102750892065
+InternetService_Fiber optic,0.501184010528429
+days_to_renewal,0.3381922680292385
+missingindicator_data_usage_change_pct_mom,0.32454538489555507
+StreamingTV_No,0.3165260875398842
+StreamingMovies_No,0.3036095265438217
+PaperlessBilling_No,0.29657076713984787
+MultipleLines_No,0.2929825489420496
+nps_category_Detractor,0.27484287975206734
+PhoneService_Yes,0.2682428556431249
+StreamingTV_Yes,0.22899010019793906
+TechSupport_Yes,0.227262341890164
+StreamingMovies_Yes,0.21607353920187736
+MonthlyCharges,0.20257066334486626
+PaymentMethod_Electronic check,0.2022568887658459
+PaymentMethod_Bank transfer (automatic),0.20104259211744427
+StreamingTV_No internet service,0.19796016576763892
+TechSupport_No internet service,0.19796016576763892
+StreamingMovies_No internet service,0.19796016576763892
+DeviceProtection_No internet service,0.19796016576763892
+OnlineBackup_No internet service,0.19796016576763892
+OnlineSecurity_No internet service,0.19796016576763892
+InternetService_No,0.19796016576763892
+OnlineSecurity_Yes,0.1935737075195182
+support_tickets_90d,0.18942619995335103
+tenure,0.18088117466783435
+Dependents_Yes,0.17814642019361138
+outage_hours_90d,0.17689270327984377
+gender_Male,0.17484547455337032
+Partner_No,0.1725335821526902
+Contract_One year,0.15077682947008034
+competitor_promo_active,0.15004123831879185
+PaymentMethod_Mailed check,0.14604832997307074
+nps_category_Promoter,0.14381055751277885
+competitor_offers_in_area,0.14253857895742292
+PaymentMethod_Credit card (automatic),0.14066211978491677
+TechSupport_No,0.13972635454821286
+customer_friction_events,0.1280872752120694
+monthly_charge_per_tenure,0.12560940043923619
+service_reliability_events,0.12445509679426286
+Partner_Yes,0.11296257095689224
+gender_Female,0.11065067855621864
+Dependents_No,0.1073497329159779
+OnlineSecurity_No,0.10603772017757457
+late_payments_6m,0.10446162401144808
+OnlineBackup_Yes,0.10418418729317516
+dropped_calls_30d,0.09971296138407724
+support_tickets_30d,0.09092676867447841
+area_outages_90d,0.08312010328143762
+nps_category_Passive,0.07727660980144757
+nps_category_Not surveyed,0.07718722106885041
+billing_disputes_6m,0.07637031807026828
+days_since_plan_change,0.0649054497948308
+complaints_90d,0.061924412392614994
+missingindicator_nps_score,0.05656385786481603
+SeniorCitizen,0.0530331830444479
+DeviceProtection_Yes,0.043965409643781594
+DeviceProtection_No,0.043570577698162506
+plan_downgrade_90d,0.03790842645021298
+support_ticket_escalation,0.032669712726008375
+missingindicator_minutes_change_pct_mom,0.03036831883307
+MultipleLines_Yes,0.024739693298924257
+PhoneService_No,0.017253297466459913
+MultipleLines_No phone service,0.017253297466459913
+OnlineBackup_No,0.01664819995123327
+PaperlessBilling_Yes,0.011074614030261967

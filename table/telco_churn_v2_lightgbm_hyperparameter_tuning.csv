@@ -1,0 +1,4 @@
+Candidate,Model,Parameters,Train + validation seconds,Threshold,Accuracy,Precision,Recall,F1,ROC-AUC,Average Precision
+LightGBM #1,LightGBM,"{""num_leaves"": 7, ""min_child_samples"": 30, ""learning_rate"": 0.025, ""n_estimators"": 500}",1.4975186249939725,0.4129999999999999,0.84,0.6757679180887372,0.752851711026616,0.7122302158273381,0.9006299301969241,0.7721159098881025
+LightGBM #3,LightGBM,"{""num_leaves"": 15, ""min_child_samples"": 50, ""learning_rate"": 0.02, ""n_estimators"": 600}",2.1906878750305623,0.3439999999999999,0.831,0.6506410256410257,0.7718631178707225,0.7060869565217391,0.8913176942800687,0.7520283328469877
+LightGBM #2,LightGBM,"{""num_leaves"": 15, ""min_child_samples"": 30, ""learning_rate"": 0.025, ""n_estimators"": 500}",1.9817008330719545,0.285,0.822,0.6261127596439169,0.8022813688212928,0.7033333333333334,0.8922979296397378,0.7517737068349661

@@ -1,0 +1,5 @@
+Partition,Customers,Share,Churn rate,Used for model fitting or selection
+Training,1999,0.39987997599519903,0.26263131565782893,Yes
+Validation,1000,0.20004000800160032,0.263,Yes
+Test,1000,0.20004000800160032,0.263,No
+Reserve,1000,0.20004000800160032,0.262,No

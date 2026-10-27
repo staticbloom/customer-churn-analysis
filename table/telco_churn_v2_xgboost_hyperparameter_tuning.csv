@@ -1,0 +1,4 @@
+Candidate,Model,Parameters,Train + validation seconds,Threshold,Accuracy,Precision,Recall,F1,ROC-AUC,Average Precision
+XGBoost #2,XGBoost,"{""max_depth"": 3, ""min_child_weight"": 5, ""learning_rate"": 0.03, ""n_estimators"": 500}",1.3178396669682115,0.3909999999999999,0.84,0.6710963455149501,0.7680608365019012,0.7163120567375887,0.8972764934401617,0.7654516829434088
+XGBoost #1,XGBoost,"{""max_depth"": 2, ""min_child_weight"": 5, ""learning_rate"": 0.03, ""n_estimators"": 500}",1.2552215410396457,0.31599999999999995,0.829,0.636094674556213,0.8174904942965779,0.7154742096505824,0.8992833963607472,0.7721555943207917
+XGBoost #3,XGBoost,"{""max_depth"": 4, ""min_child_weight"": 8, ""learning_rate"": 0.02, ""n_estimators"": 650}",1.546534457942471,0.31499999999999995,0.831,0.6432926829268293,0.8022813688212928,0.7140439932318104,0.8964458729511792,0.7589639612036738
